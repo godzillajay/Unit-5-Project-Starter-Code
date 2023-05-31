@@ -1,0 +1,50 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: white;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+.arson {
+  display: none;
+  background-image: url("https://media3.giphy.com/media/xT9IgMgdur6larNA1a/giphy.gif?cid=ecf05e47ejqh66r6pwh7oe9svrv9p99u5sy074h4s6nwl8pw&ep=v1_stickers_search&rid=giphy.gif&ct=s");
+  background-size: cover;
+}
+
+.taxEvasion {
+  background-image: url("https://media4.giphy.com/media/FJaKqj9YG8cw6FeW8b/giphy.gif?cid=ecf05e47v78w9nvmjq467shz7mkj2w569bw5qqsbjlh0kh4z&ep=v1_stickers_search&rid=giphy.gif&ct=s");
+  background-size: cover;
+}
+
+
+
+.questionOne, .questionTwo, .result, .taxEvasion, .burglary, .genocide, .arson .confetti{
+  display: none;
+}
+
+
+input {
+    border: solid 2px black;
+    font-size: 15px;
+}
+
+.start, .input, .think, .do {
+  border: solid 2px black;
+  font-size: 15px;
+}
+
+
+img {
+  width: 700px;
+  height: auto;
+}
+
+
+.confetti {
+  display: none;
+}
